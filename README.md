@@ -5,7 +5,7 @@ A simple desktop app for collecting visitor feedback on an **acoustic sculpture*
 
 ---
 
-## What this app does (quickly)
+## What this app does 
 - Friendly form for name, age, and a few multiple‑choice questions
 - 1–5 ratings for enjoyment, curiosity, and interest in science
 - **Admin Panel** with a table of responses and basic statistics
@@ -13,7 +13,7 @@ A simple desktop app for collecting visitor feedback on an **acoustic sculpture*
 
 ---
 
-## How to try it yourself (no jargon)
+## How to run it
 Choose one of the two options below.
 
 ### Option A — Easiest (Download as a ZIP)
